@@ -1,5 +1,4 @@
-#Linux Driver for Arietta G25 and HC-SR04 ultrasonic ranger
+#Linux Driver for the HC-SR04 ultrasonic ranger
 
-![Arietta G25 and HC-SR04](http://www.acmesystems.it/www/HC-SR04/hc-sr04_wiring.jpg)
+Used with the Toradex Colibri VF61 SoM
 
-* http://www.acmesystems.it/HC-SR04
